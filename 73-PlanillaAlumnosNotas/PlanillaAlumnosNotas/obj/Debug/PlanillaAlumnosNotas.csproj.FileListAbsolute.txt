@@ -1,0 +1,12 @@
+C:\Users\tauro\Desktop\PlanillaAlumnosNotas\PlanillaAlumnosNotas\bin\Debug\PlanillaAlumnosNotas.exe
+C:\Users\tauro\Desktop\PlanillaAlumnosNotas\PlanillaAlumnosNotas\bin\Debug\PlanillaAlumnosNotas.pdb
+C:\Users\tauro\Desktop\PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.exe
+C:\Users\tauro\Desktop\PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\73-PlanillaAlumnosNotas\PlanillaAlumnosNotas\bin\Debug\PlanillaAlumnosNotas.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\73-PlanillaAlumnosNotas\PlanillaAlumnosNotas\bin\Debug\PlanillaAlumnosNotas.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\73-PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\73-PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\73-PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\73-PlanillaAlumnosNotas\PlanillaAlumnosNotas\obj\Debug\PlanillaAlumnosNotas.pdb
